@@ -1,4 +1,4 @@
-class LinkedList {
+class DoublyLinkedList {
   constructor() {
     this.head = this.tail = null
   }
@@ -89,4 +89,3 @@ class Node {
   }
 }
 
-let list = new LinkedList()
